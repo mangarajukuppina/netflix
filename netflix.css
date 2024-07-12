@@ -1,0 +1,213 @@
+#header{
+    border-top: 10px solid rgb(45,45,45);
+    border-bottom: 10px solid rgb(45,45,45);
+    width: 100%;
+    height: 700px;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/00103100-5b45-4d4f-af32-342649f1bda5/64774cd8-5c3a-4823-a0bb-1610d6971bd4/IN-en-20230821-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+}
+p:first-child{
+    color: red;
+    font-size: 50px;
+    margin-left: 150px;
+
+    display: inline-block;
+    margin-top: 20px;
+
+    
+}
+#select{
+    font-size: 20px;
+    margin-left: 800px;
+    margin-top: -1800px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+   
+}
+button:last-child{
+    background-color: red;
+    font-size: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+#p2{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+}
+#p3{
+    font-size: 30px;
+    text-align: center;
+    margin-top: -40px;
+    color: white;
+}
+#p4{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+#header1~input{
+    margin-left: 450px;
+    padding: 18px;
+    font-size: 20px;
+    width: 350px;
+    background-color: black;
+}
+#header1~button{
+    color: white;
+    background-color: rgb(229, 9, 20);
+    padding: 18px;
+    width: 200px;
+}
+#main{
+    width: 100%;
+    height: 600px;
+    
+    background-color: black;
+}
+#main p{
+    width: 30%;
+  
+    
+}
+#p5{
+    margin-top: 230px;
+    color: white;
+
+}
+
+#p6{
+    margin-top: 0px;
+    font-size: 27px;
+    width: 100%;
+    
+    color: white;
+    margin-left: 160px;
+}
+#img1{
+    margin-left: 900px;
+    margin-top: -1110px;
+    border-radius: 10px;
+    background-image: url(https://buro247.me/wp-content/uploads/2018/02/imagesnetflix-arabic-series-article-1.gif);
+    background-size: cover;
+}
+#body{
+    height: 550px;
+    width: 100%;
+    border-top: 10px solid rgb(45,45,45);
+    border-bottom: 10px solid rgb(45,45,45);
+    background-color: black;
+   
+}
+#p7{
+    font-size: 50px;
+    margin-top: -300px;
+    margin-left: 50%;
+    color: white;
+}
+#p8{
+    margin-left: 50%;
+    font-size: 25px;
+    margin-top: -50px;
+    color: white;
+}
+#body img{
+    margin-left: 350px;
+    margin-top: 100px;
+}
+#div1{
+    height: 800px;
+    width: 100%;
+    border-top: 10px solid rgb(45,45,45);
+    border-bottom: 10px solid rgb(45,45,45);
+    background-color: black;
+}
+.pa1{
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+    margin-left: 430px;
+}
+summary{
+    color: white;
+    width: 80%;
+    
+    margin-left: 10%;
+    height: 30px;
+    font-size: 30px;
+    padding: 20px;
+}
+summary+p{
+    color: white;
+    width: 80%;
+    margin-left: 10%;
+    background-color: rgb(45,45,45);
+    padding: 10px;
+
+
+}
+summary:hover{
+    background-color: rgb(45,45,45);
+}
+#para2{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+#in{
+    margin-left: 450px;
+    padding: 18px;
+    font-size: 20px;
+    width: 350px;
+    background-color: black;
+
+}
+#bu{
+    color: white;
+    background-color: rgb(229, 9, 20);
+    padding: 18px;
+    width: 200px;
+
+}
+#footer{
+    height: 450px;
+    width: 100%;
+    border-top: 10px solid rgb(45,45,45);
+    border-bottom: 10px solid rgb(45,45,45);
+    background-color: black;
+}
+#para3{
+    color: rgba(255,255,255,0.7);
+    font-size: 20px;
+    margin-top: 70px;
+
+}
+.footer1{
+    margin-left: -40px;
+    display: flex;
+}
+#para5{
+    width: 200px;
+    font-size: 20px;
+    justify-content: space-between;
+    margin-left: 200px;
+    color: rgba(255,255,255,0.7);
+    margin-top: -9px;
+}
+.footer1 a{
+    color: rgba(255,255,255,0.7);
+    
+}
+#select1{
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    margin-left: 170px;
+    padding: 7px;
+    border-radius: 5px;
+}
+button:hover{
+    margin-left: 300px;
+    transform: rotate(20deg);
+}
